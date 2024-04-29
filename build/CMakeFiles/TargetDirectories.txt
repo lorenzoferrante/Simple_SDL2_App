@@ -1,0 +1,3 @@
+/root/workspace/Simple_SDL2_App/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/Simple_SDL2_App/build/CMakeFiles/Simple_SDL2_App.dir
+/root/workspace/Simple_SDL2_App/build/CMakeFiles/edit_cache.dir

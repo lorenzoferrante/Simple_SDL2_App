@@ -8,7 +8,7 @@
 #include "lib/video/Video.h"
 #include "lib/Errors.h"
 #include "lib/font/Font.h"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 int getError(struct CurrentError *pCurrentError) {
     if (pCurrentError != NULL) {

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/Simple_SDL2_App/lib/Errors.h
+
+/root/workspace/Simple_SDL2_App/lib/font/Font.c
+Font.h
+/root/workspace/Simple_SDL2_App/lib/font/Font.h
+../Errors.h
+/root/workspace/Simple_SDL2_App/lib/Errors.h
+../video/Video.h
+/root/workspace/Simple_SDL2_App/lib/video/Video.h
+
+/root/workspace/Simple_SDL2_App/lib/font/Font.h
+SDL2/SDL.h
+-
+SDL2/SDL_ttf.h
+-
+
+/root/workspace/Simple_SDL2_App/lib/video/Video.h
+SDL2/SDL.h
+-
+
+/root/workspace/Simple_SDL2_App/main.c
+stdio.h
+-
+lib/video/Video.h
+/root/workspace/Simple_SDL2_App/lib/video/Video.h
+lib/Errors.h
+/root/workspace/Simple_SDL2_App/lib/Errors.h
+lib/font/Font.h
+/root/workspace/Simple_SDL2_App/lib/font/Font.h
+SDL2/SDL.h
+-
+

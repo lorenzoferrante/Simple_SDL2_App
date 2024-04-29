@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o CMakeFiles/Simple_SDL2_App.dir/main.c.o  -o bin/Simple_SDL2_App -lSDL2 -lSDL2_ttf 
