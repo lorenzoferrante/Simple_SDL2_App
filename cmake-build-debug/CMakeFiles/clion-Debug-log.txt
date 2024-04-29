@@ -1,0 +1,30 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App -B /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+
+-- CMAKE_BINARY_DIR: /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug
+-- CMAKE_SOURCE_DIR: /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App
+-- CMAKE_COMMAND: /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake
+-- CMAKE_VERSION: 3.28.1
+-- CMAKE_C_COMPILER: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- CMAKE_PROJECT_NAME: Simple_SDL2_App
+-- CMAKE_FINDCMAKE: /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/CMAKE
+-- SDL2_ttf_DIR: /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake_modules/
+-- FINDING SDL2
+-- SDL2_FOUND: 1
+-- SDL2_INCLUDE_DIR:/opt/homebrew/Cellar/sdl2/2.30.2/include/SDL2
+-- SDL2_LIBRARY: SDL2::SDL2
+-- FINDING SDL2_TTF
+-- SDL2_TTF_FOUND: 1
+-- SDL2_ttf_LIBRARY: /opt/homebrew/lib/libSDL2_ttf.dylib
+-- CMAKE_RUNTIME_OUTPUT_DIRECTORY: /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug/bin
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug

@@ -4,6 +4,7 @@
 #include "Font.h"
 #include "../Errors.h"
 #include "../video/Video.h"
+#include "SDL.h"
 
 TTF_Font *defaultFont = NULL;
 

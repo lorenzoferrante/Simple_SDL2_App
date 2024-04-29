@@ -18,7 +18,8 @@ set(SOURCE_FILES
         lib/video/Video.c
         lib/font/Font.h
         lib/font/Font.c
-        main.c)
+        main.c
+        SDL.h)
 
 set(SDL2_ttf_DIR "${PROJECT_SOURCE_DIR}/cmake_modules/")
 message( STATUS "SDL2_ttf_DIR: " ${SDL2_ttf_DIR} )
@@ -52,4 +53,5 @@ file(COPY resources DESTINATION ${CMAKE_RUNTIME_OUTPUT_DIRECTORY})
 message( STATUS "CMAKE_RUNTIME_OUTPUT_DIRECTORY: " ${CMAKE_RUNTIME_OUTPUT_DIRECTORY} )
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
+target_compile_definitions(${PROJECT_NAME} PUBLIC MACOS)
 target_link_libraries(${PROJECT_NAME} ${SDL2_LIBRARIES} ${SDL2_ttf_LIBRARIES} SDL2_ttf)

@@ -1,0 +1,3 @@
+/Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug/CMakeFiles/Simple_SDL2_App.dir
+/Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lorenzoferrante/CLionProjects/Simple_SDL2_App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
