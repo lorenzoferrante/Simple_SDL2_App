@@ -5,7 +5,7 @@
 // https://github.com/JodyAndrews/SDL2_Basic_Setup?source=post_page-----9155764d5765--------------------------------
 
 #include <stdio.h>
-#include "lib/video//Video.h"
+#include "lib/video/Video.h"
 #include "lib/Errors.h"
 #include "lib/font/Font.h"
 #include <SDL.h>
