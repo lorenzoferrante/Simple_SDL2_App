@@ -1,1 +1,1 @@
-/usr/bin/cc    CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o CMakeFiles/Simple_SDL2_App.dir/main.c.o  -o bin/Simple_SDL2_App -lSDL2 -lSDL2_ttf 
+/usr/bin/gcc -g CMakeFiles/Simple_SDL2_App.dir/main.c.o CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o -o bin/Simple_SDL2_App  /usr/lib/x86_64-linux-gnu/libSDL2.so -lSDL2_ttf 

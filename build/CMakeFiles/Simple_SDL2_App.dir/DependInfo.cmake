@@ -1,17 +1,16 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/root/workspace/Simple_SDL2_App/lib/font/Font.c" "/root/workspace/Simple_SDL2_App/build/CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o"
-  "/root/workspace/Simple_SDL2_App/lib/video/Video.c" "/root/workspace/Simple_SDL2_App/build/CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o"
-  "/root/workspace/Simple_SDL2_App/main.c" "/root/workspace/Simple_SDL2_App/build/CMakeFiles/Simple_SDL2_App.dir/main.c.o"
-  )
-set(CMAKE_C_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/root/Simple_SDL2_App/lib/font/Font.c" "CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o" "gcc" "CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o.d"
+  "/root/Simple_SDL2_App/lib/video/Video.c" "CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o" "gcc" "CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o.d"
+  "/root/Simple_SDL2_App/main.c" "CMakeFiles/Simple_SDL2_App.dir/main.c.o" "gcc" "CMakeFiles/Simple_SDL2_App.dir/main.c.o.d"
   )
 
 # Targets to which this target links.

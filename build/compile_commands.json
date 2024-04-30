@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/Simple_SDL2_App/build",
+  "command": "/usr/bin/gcc -DLINUX -isystem /usr/include/SDL2 -g -std=gnu99 -o CMakeFiles/Simple_SDL2_App.dir/main.c.o -c /root/Simple_SDL2_App/main.c",
+  "file": "/root/Simple_SDL2_App/main.c"
+},
+{
+  "directory": "/root/Simple_SDL2_App/build",
+  "command": "/usr/bin/gcc -DLINUX -isystem /usr/include/SDL2 -g -std=gnu99 -o CMakeFiles/Simple_SDL2_App.dir/lib/video/Video.c.o -c /root/Simple_SDL2_App/lib/video/Video.c",
+  "file": "/root/Simple_SDL2_App/lib/video/Video.c"
+},
+{
+  "directory": "/root/Simple_SDL2_App/build",
+  "command": "/usr/bin/gcc -DLINUX -isystem /usr/include/SDL2 -g -std=gnu99 -o CMakeFiles/Simple_SDL2_App.dir/lib/font/Font.c.o -c /root/Simple_SDL2_App/lib/font/Font.c",
+  "file": "/root/Simple_SDL2_App/lib/font/Font.c"
+}
+]
