@@ -2,9 +2,6 @@
 // Created by Lorenzo Ferrante on 29/04/24.
 //
 #include "Font.h"
-#include "../Errors.h"
-#include "../video/Video.h"
-#include "SDL.h"
 
 TTF_Font *defaultFont = NULL;
 

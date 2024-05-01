@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include "lib/video/Video.h"
-#include "lib/Errors.h"
 #include "lib/font/Font.h"
 
 int getError(struct CurrentError *pCurrentError) {

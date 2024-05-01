@@ -2,7 +2,6 @@
 // Created by Lorenzo Ferrante on 29/04/24.
 //
 #include "Video.h"
-#include "../Errors.h"
 
 SDL_Surface *screen = NULL;
 SDL_Window *window = NULL;
